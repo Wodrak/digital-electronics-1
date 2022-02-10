@@ -1,8 +1,8 @@
 # digital-electronics-1
 
-# Hello World
-## Hello World
-### Hello World
+# *Hello World*
+## __Hello World__
+### ~~Hello World~~
 #### Hello World
 ##### Hello World
 ###### Hello World
