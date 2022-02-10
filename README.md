@@ -1,7 +1,7 @@
 # digital-electronics-1
 
 # *Hello World*
-## __Hello World__
+## __bold__ not bold
 ### ~~Hello World~~
 #### Hello World
 ##### Hello World
