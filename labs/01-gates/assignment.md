@@ -33,7 +33,7 @@ end architecture dataflow;
 ### Distributive laws
 
 1. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
-First Distributive laws
+#**First Distributive laws**
 
    ![your figure](images/distributive_signals.png)
 
