@@ -11,9 +11,9 @@
 ```vhdl
 architecture dataflow of demorgan is
 begin
-    f_o      <= -- (not b_i and a_i) or (not c_i and not b_i)
-    f_nand_o <= -- ((b_i nand b_i) nand a_i) nand ((c_i nand c_i) nand (b_i nand b_i))
-    f_nor_o  <= -- (b_i nor (a_i nor a_i)) nor (c_i nor b_i)) nor ((b_i nor (a_i nor a_i)) nor (c_i nor b_i))
+    f_o      <= (not b_i and a_i) or (not c_i and not b_i)
+    f_nand_o <= ((b_i nand b_i) nand a_i) nand ((c_i nand c_i) nand (b_i nand b_i))
+    f_nor_o  <= (b_i nor (a_i nor a_i)) nor (c_i nor b_i)) nor ((b_i nor (a_i nor a_i)) nor (c_i nor b_i))
 end architecture dataflow;
 ```
 
