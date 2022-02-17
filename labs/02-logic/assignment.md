@@ -9,8 +9,6 @@
    ![K-maps](images/kmap_greater.png)
 
    Less than:
-   greater_{Sop}^{min.}= \left (\overline{A1}~B1  \right )+\left (\overline{A1}~\overline{A0}~B0  \right )+\left (\overline{A0}~B1~B0  \right )\\
-~~~~~less_{Sop}^{min.}=\left (A1~B1  \right )+\left (\overline{B0}~\overline{B1}~A0  \right )+\left (\overline{B0}~A1~A0  \right )
 
    ![K-maps](images/kmap_less.png)
 
@@ -54,3 +52,6 @@
 3. Link to your public EDA Playground example:
 
    [https://www.edaplayground.com/...](https://www.edaplayground.com/x/iXuZ)
+   
+      greater_{Sop}^{min.}= \left (\overline{A1}~B1  \right )+\left (\overline{A1}~\overline{A0}~B0  \right )+\left (\overline{A0}~B1~B0  \right )\\
+~~~~~less_{Sop}^{min.}=\left (A1~B1  \right )+\left (\overline{B0}~\overline{B1}~A0  \right )+\left (\overline{B0}~A1~A0  \right )
