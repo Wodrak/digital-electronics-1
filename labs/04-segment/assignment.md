@@ -45,5 +45,10 @@
    LED(6) <= '1' when (SW(0) = '1') else '0';
 
    -- Turn LED(7) on if input value is a power of two, ie 1, 2, 4, or 8
-   LED(7) <= '1' when ((SW(0) xor SW(1)) /= (SW(3) xor SW(2))) else '0';
+    with hex_i select
+        LED(7) <=  '1' when "0001",  
+                   '1' when "0010",
+                   '1' when "0100",
+                   '1' when "1000",
+                   '0' when others;
    ```
