@@ -16,13 +16,18 @@ begin
     --------------------------------------------------------
     p_t_ff_rst : process(clk)
     begin
-
-        -- WRITE YOUR CODE HERE
-
+        if rising_edge(clk) then
+            if (rst = '1') then
+                s_q <= '0';
+                q <= '0';
+                q_bar <= '1';            
+            else
+                s_q <= (not (t) and s_q) or (t and not (s_q));
+                q     <= s_q;
+                q_bar <= not s_q;
+            end if;
+        end if;
     end process p_t_ff_rst;
-
-    q     <= s_q;
-    q_bar <= not s_q;
 end architecture Behavioral;
 ```
 
