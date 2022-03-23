@@ -40,7 +40,7 @@ Due to the physiological properties of human vision, it is necessary that the ti
 
   ![https://lastminuteengineers.com/seven-segment-arduino-tutorial/](../04-segment/images/7-Segment-Display-Number-Formation-Segment-Contol.png)
   
-    !(images/7seg.png)
+    ![7seg](images/7seg.png)
   
   ![Timing of seven-segment display](images/signals.png)
 
