@@ -1,4 +1,4 @@
-# Lab 8: YOUR_FIRSTNAME LASTNAME
+# Lab 8: Minh Hieu Tran
 
 ### Traffic light controller
 
