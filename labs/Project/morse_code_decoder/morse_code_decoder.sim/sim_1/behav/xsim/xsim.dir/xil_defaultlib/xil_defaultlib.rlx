@@ -1,0 +1,12 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+D:/prednasky a cviceni 4/DE1/github/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.srcs/sim_1/new/tb_decoder.vhd,1650309039,vhdl,,,,tb_decoder,,,,,,,,
+D:/prednasky a cviceni 4/DE1/github/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.srcs/sim_1/new/tb_shift_register.vhd,1650302905,vhdl,,,,tb_shift_register,,,,,,,,
+D:/prednasky a cviceni 4/DE1/github/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.srcs/sources_1/new/clock_enable.vhd,1649940619,vhdl,D:/prednasky a cviceni 4/DE1/github/digital-electronics-1/labs/06-counter/tb_clock_enable.vhd,,,clock_enable,,,,,,,,
+D:/prednasky a cviceni 4/DE1/github/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.srcs/sources_1/new/counter.vhd,1650215656,vhdl,D:/prednasky a cviceni 4/DE1/github/digital-electronics-1/labs/06-counter/tb_cnt_up_down.vhd,,,cnt_up_down,,,,,,,,
+D:/prednasky a cviceni 4/DE1/github/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.srcs/sources_1/new/d_ff_rst.vhd,1650302280,vhdl,D:/prednasky a cviceni 4/DE1/github/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.srcs/sources_1/new/shift_register.vhd,,,d_ff_rst,,,,,,,,
+D:/prednasky a cviceni 4/DE1/github/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.srcs/sources_1/new/d_flipflop.vhd,1650298143,vhdl,,,,,,,,,,,,
+D:/prednasky a cviceni 4/DE1/github/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.srcs/sources_1/new/decoder.vhd,1650309336,vhdl,D:/prednasky a cviceni 4/DE1/github/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.srcs/sim_1/new/tb_decoder.vhd,,,decoder,,,,,,,,
+D:/prednasky a cviceni 4/DE1/github/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.srcs/sources_1/new/shift_register.vhd,1650301768,vhdl,D:/prednasky a cviceni 4/DE1/github/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.srcs/sim_1/new/tb_shift_register.vhd,,,shift_register,,,,,,,,

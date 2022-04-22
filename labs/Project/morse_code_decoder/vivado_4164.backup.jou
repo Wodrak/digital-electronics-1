@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Apr 14 13:45:44 2022
+# Process ID: 4164
+# Current directory: D:/Documents/Vidensky_230347/digital-electronics-1/labs/Project/morse_code_decoder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4416 D:\Documents\Vidensky_230347\digital-electronics-1\labs\Project\morse_code_decoder\morse_code_decoder.xpr
+# Log file: D:/Documents/Vidensky_230347/digital-electronics-1/labs/Project/morse_code_decoder/vivado.log
+# Journal file: D:/Documents/Vidensky_230347/digital-electronics-1/labs/Project/morse_code_decoder\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Documents/Vidensky_230347/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.xpr
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+close [ open D:/Documents/Vidensky_230347/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.srcs/sources_1/new/d_ff_rst.vhd w ]
+add_files D:/Documents/Vidensky_230347/digital-electronics-1/labs/Project/morse_code_decoder/morse_code_decoder.srcs/sources_1/new/d_ff_rst.vhd
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
